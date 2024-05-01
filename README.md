@@ -1,0 +1,1 @@
+# image-analysis-and-sensitivity-of-a-gripper-force
